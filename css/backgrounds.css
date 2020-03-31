@@ -1,0 +1,15 @@
+#p_bg_color{
+    background-color: lime;
+}
+
+#p_low_opacity {
+    opacity: 0.3;
+}
+
+#p_bg_img {
+    background-image: url(/assets/imagens/spring.jpg);
+    color: white;
+}
+body {
+    background: #ffffff url(/assets/imagens/sea-gull.jpg) no-repeat center;
+}

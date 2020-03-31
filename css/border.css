@@ -1,0 +1,48 @@
+p#border_dotted{
+    border: dotted blue;
+}
+
+p#border_dashed{
+    border: dashed red;
+}
+
+p#border_solid{
+    border: solid violet;
+}
+
+p#border_groove{
+    border: groove;
+}
+
+p#border_ridge{
+    border: ridge;
+}
+
+p#border_inset{
+    border: inset;
+}
+
+p#border_outset{
+    border: outset;
+}
+
+p#border_none{
+    border: none;
+}
+
+p#border_hidden{
+    border: hidden;
+}
+
+p#border_double{
+    border: double;
+}
+
+p#border_ridge:hover{
+    color: lime;
+}
+
+
+
+
+
